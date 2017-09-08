@@ -1,8 +1,28 @@
-.sidebar {
-  width: 25%;
-  float: right;
+
+.projects {
+  vertical-align: top;
+  position: relative;
+  bottom: -56px;
+  margin: auto;
+  border: 40px black;
+  padding: 5px;
+  text-align: center;
+}
+.history {
+  vertical-align: top;
+  position: relative;
+  bottom: -56px;
+  border: 40px black;
+  margin: auto;
+  padding: 5px;
+  text-align: center;
 }
 .text {
-  color: black;
-  font-size: 50;
+  vertical-align: top;
+  position: relative;
+  bottom: -45px;
+  border: 40px black;
+  margin: auto;
+  padding: 5px;
+  text-align: center;
 }
