@@ -1,0 +1,11 @@
+.sidebar {
+  width: 25%;
+  float: right;
+}
+.text {
+  color: black;
+  font-size: 50;
+}
+.history {
+  float: left;
+}
